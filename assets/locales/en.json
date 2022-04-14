@@ -1,0 +1,16 @@
+{
+    "label.save": "Save",
+    "label.delete": "Delete",
+    "label.no": "No",
+    "label.yes": "Yes",
+    "home.no_taks": "There is no task for you!",
+    "home.title_page": "Getx + Hive in english!",
+    "dialog.title_page": "Insert a task!",
+    "dialog.title_validation" : "A title is required",
+    "dialog.title_field": "Title",
+    "dialog.description_field": "Description",
+    "dialog.task_done": "Task is done?",
+    "dialog.tags_field": "Tag your Task with one #hashta",
+    "dialog.delete_task.title": "Delete task #@task_id",
+    "dialog.delete_task.description": "Are you sure to delete this task?"
+}

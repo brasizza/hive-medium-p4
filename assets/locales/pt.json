@@ -1,0 +1,16 @@
+{
+    "label.save": "Salvar",
+    "label.delete": "Deletar",
+    "label.no": "Não",
+    "label.yes": "Sim",
+    "home.no_taks": "Não tem nenhuma tarefa cadastrada para você!",
+    "home.title_page": "Getx + Hive em português!",
+    "dialog.title_page": "Insira uma tarefa!",
+    "dialog.title_field": "Título",
+    "dialog.title_validation" : "O título é obrigatório",
+    "dialog.description_field": "Descrição",
+    "dialog.task_done": "Tarefa concluída?",
+    "dialog.tags_field": "Marque sua tarefa com #hashtags",
+    "dialog.delete_task.title": "Excluir tarefa #@task_id",
+    "dialog.delete_task.description": "Deseja realmente excluir a tarefa?"
+}
